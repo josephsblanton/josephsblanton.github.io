@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+html,body {
+    background: linear-gradient(to right, black,gray);
+    color: white;
+}
+a {
+    color: orange;
+}
+a:hover {
+    color: orangered;
+}
+footer {
+    text-align: center;
+    color: #6c757d;
+}
